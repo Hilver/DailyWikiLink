@@ -1,0 +1,21 @@
+{
+  "name": "wiki-automation",
+  "version": "1.0.0",
+  "description": "An example of how to automate task using nodejs and selenium.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium",
+    "nodejs",
+    "automation",
+    "example"
+  ],
+  "author": "Pawel Peczkowski",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
